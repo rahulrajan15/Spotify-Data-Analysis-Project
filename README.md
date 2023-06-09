@@ -17,9 +17,6 @@ Python , Statistics
 
 # Python Libraries 
 Pandas pandas | NumPy numpy | Matplotlib matplotlib | Seaborn Seaborn
-
-Datasets - by Kaggle
-
 Project - Spotify Data Analysis using Python
 Kaggle Project: Spotify Data Analysis Spotify
 
