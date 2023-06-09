@@ -1,5 +1,4 @@
-I'm sharing an Exploratory Data Analysis (EDA) and Data Visualization of the data from Spotify using Python - A Data Analysis Project performed in my journey into Data Analyst.
-
+I'm sharing an Exploratory Data Analysis (EDA) and Data Visualization of the data from Spotify using Python.
 # Spotify Data Analysis Project
 ![Spotify_Label](https://github.com/rahulrajan15/Spotify-Data-Analysis-Project/assets/113009011/08be1025-c3e7-4cb7-874a-36e27cbb4650)
 
